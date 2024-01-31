@@ -1,1 +1,1 @@
-# Virnda-Store-Annual-Report
+# Virnda-Store-Annual-Report :The Vrinda Store Annual Sales Report  is an Excel-based report that aims to provide insights into customer behavior and sales patterns. The report was created by analyzing the data of Vrinda Store using Microsoft Excel . The objective of the report is to understand customer patterns, improve sales strategies, and enhance overall growth . The report includes metrics such as sales by product category, sales by region, and sales by customer demographics 
